@@ -6,6 +6,7 @@
 
 코드 스플리팅을 하게 되면, 지금 당장 필요한 코드가 아니라면 따로 분리시켜서, 나중에 필요할때 불러와서 사용 할 수 있습니다. 이를 통하여, 페이지의 로딩 속도를 개선 할 수 있죠.
 
+https://hyeok999.github.io/2020/04/04/TypeScript-05/#a1
 https://velog.io/@velopert/react-code-splitting 참고 </br>
 https://godsenal.com/posts/Webpack-%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85/</br>
 https://blog.naver.com/sjssmsqkqh1/222896583084
